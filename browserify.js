@@ -1,0 +1,1 @@
+ALLEX.execSuite.registry.registerClientSide('allextutorials__tutorial1_storehttpexecutorservice',require('./sinkmapcreator')(ALLEX, ALLEX.execSuite.registry.getClientSide('allex_httpexecutorservice')));

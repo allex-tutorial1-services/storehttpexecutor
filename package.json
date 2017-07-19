@@ -1,0 +1,21 @@
+{
+  "name": "allextutorials__tutorial1_storehttpexecutorservice",
+  "version": "0.1.0",
+  "description": "StoreHTTPExecutorService",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url" : "git@github.com:allex-tutorial1-services/storehttpexecutor.git"
+  },
+  "keywords": [
+    "ecosystem:allex",
+    "Service",
+    "StoreHTTPExecutor"
+  ],
+  "author": "Allex Tutorial Team <support@allex.io>",
+  "license": "ISC"
+}
+
